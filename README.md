@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://user-images.githubusercontent.com/68068215/185445315-30089410-1bcd-4996-8489-9b4f3535866c.png">
+ 
 </div>
 
 <p>Site no formato landing page sobre a empresa que criamos a Produtivitech focada em produtividade tecnologica para as empresas, especializada em desenvolvimento de softwares e resoluções de problemas para empresas de pequeno e médio porte. Logo no começo, apresentamos a visão, missão e valores da empresa; plataformas que atuamos; equipe; projetos e um formulário de contato. </p>

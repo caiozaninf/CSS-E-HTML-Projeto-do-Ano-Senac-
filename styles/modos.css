@@ -1,0 +1,76 @@
+
+:root {
+  
+  --background-color-light: #adf5ff; 
+  --secondary-background-light: #5972b8; 
+  --text-color-dark: #ffffff; 
+  --header-background-light: #b2ebf2; 
+
+ 
+  --background-color-dark: #001735; 
+  --secondary-background-dark: #2d0a57; 
+  --text-color-light: #000000; 
+  --header-background-dark: #00042c; 
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+body.light-mode {
+  background-color: var(--background-color-light);
+  color: var(--text-color-light);
+}
+
+body.dark-mode {
+  background-color: var(--background-color-dark);
+  color: var(--text-color-dark);
+}
+
+/* Cabeçalho */
+header {
+  background-color: var(--header-background-light);
+}
+
+body.dark-mode header {
+  background-color: var(--header-background-dark);
+}
+
+
+#navbar {
+  background-color: var(--header-background-light);
+}
+
+body.dark-mode #navbar {
+  background-color: var(--secondary-background-dark);
+}
+
+.nav-item {
+  color: var(--text-color-light);
+}
+
+body.dark-mode .nav-item {
+  color: var(--text-color-dark);
+}
+
+
+.contato-button, .enviar-button, .cadastro-button {
+  background-color: var(--primary-color);
+  color: var(--text-color-dark);
+}
+
+body.dark-mode .contato-button, 
+body.dark-mode .enviar-button, 
+body.dark-mode .cadastro-button {
+  background-color: var(--primary-hover-color);
+  color: var(--text-color-light);
+}
+
+
+.container-content, .container-footer {
+  padding: 20px;
+}
+.enviar-button {background-color: #7fb4bb;}
+
+.cadastro-button {background-color:#7fb4bb ;}

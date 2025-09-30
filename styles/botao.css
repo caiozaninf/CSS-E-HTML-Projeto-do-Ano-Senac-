@@ -1,0 +1,32 @@
+  
+
+#toggle-theme {
+  background-color:#1d324a; /* Cor de fundo padrão para o modo claro */
+  color: #ffffff; /* Cor do texto */
+  border: none;
+  line-height: 80px;    
+  border-radius: 50%;   
+  font-size: 14px;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+  margin-left: 10%; /* Alinha o botão à direita, se necessário */
+  display: flex; /* Garante que o botão se ajuste ao layout do navbar */
+  align-items: center; /* Centraliza o conteúdo verticalmente */
+}
+
+
+#toggle-theme:hover {
+  background-color: #6d8fff; 
+}
+
+
+body.dark-mode #toggle-theme {
+  background-color: #45026b; 
+  color: #ffffff; 
+}
+
+
+body.dark-mode #toggle-theme:hover {
+  background-color: #556988; 
+}
+

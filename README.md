@@ -19,9 +19,8 @@
 <br>
 
 # 💻 Desenvolvedores
-‣ 🙅🏻‍♀️ [Marina Liz](https://github.com/m-arina)
-<br>
-‣ 🙅🏻‍♂️ [Leandro Coelho](https://github.com/lean-dro)
-<br>
-‣ 🙅🏻‍♀️ [Gislaine Coutinho](https://github.com/Gislaine09)
+
+‣ 🙅🏻‍♂️ [Caio Zanin](https://github.com/caiozaninf)
+<br> 
+
 
